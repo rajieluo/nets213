@@ -34,7 +34,7 @@ For each tweet, we will ensure the quality of the constrained-input questions by
 
 We will control for the quality of the freeform-input questions by simply showing workers the tweet and user-generated label, and asking them whether or not it applies.
 
-For both these tasks, we will also have a set of gold-standard "known" tweets and their appropriate answers.
+For the former task, we will also have a set of gold-standard "known" tweets and their appropriate answers. For the latter, we will simply show the user-created label and ask the worker to determine if it applies or not.
 
 Milestones:
 - Create gold standard sets of tweets and audiences
